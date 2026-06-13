@@ -1,0 +1,27 @@
+{
+  "name": "TimeClock Pro",
+  "short_name": "TimeClock",
+  "description": "Time tracking for freelancers. Invoice-ready reports.",
+  "start_url": "/timeclock-pro/",
+  "scope": "/timeclock-pro/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#ec4899",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/timeclock-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/timeclock-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
